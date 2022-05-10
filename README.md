@@ -9,3 +9,4 @@ For the purposes of this exercise assume that a terminal category [smthg] only e
 g++ -c TDPARSE_hw_start.cpp -o TDPARSE.o  
 g++ -c td_tester.cpp  
 g++ td_tester.o TDPARSE.o PDA.o rules.o -o td_hw_tester  
+　
